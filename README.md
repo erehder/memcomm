@@ -1,0 +1,2 @@
+# memcomm
+Club Membership Management
